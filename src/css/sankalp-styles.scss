@@ -1,0 +1,12 @@
+// Custom variables
+
+$color_bodyBgColor : #ffb325;
+$font_bodyFont : "font-family: 'Open Sans', sans-serif;"
+
+// Lets start styling
+
+body {
+  background-color: $color_bodyBgColor;
+  font-family: $font_bodyFont;
+}
+
