@@ -1,0 +1,19 @@
+{
+  "name": "sankalp-bootstrap",
+  "version": "1.0.0",
+  "description": "sakalp bootstrap ui wireframe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SiddharthP/sankalp-bootstrap.git"
+  },
+  "author": "Siddharth Pendharkar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SiddharthP/sankalp-bootstrap/issues"
+  },
+  "homepage": "https://github.com/SiddharthP/sankalp-bootstrap#readme"
+}
