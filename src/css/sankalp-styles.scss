@@ -1,12 +1,45 @@
 // Custom variables
 
 $color_bodyBgColor : #ffb325;
-$font_bodyFont : "font-family: 'Open Sans', sans-serif;"
+$color_navbar : #fff;
+$font_bodyFont : "font-family: 'Open Sans', sans-serif;";
 
 // Lets start styling
 
 body {
-  background-color: $color_bodyBgColor;
   font-family: $font_bodyFont;
+  background-color: $color_bodyBgColor;
 }
 
+
+// Sankalp Farm Brands
+
+.bg-sankalp-navbar {
+  background-color: $color_navbar;
+  border-bottom:1px solid #be7e24;
+}
+
+.navbar-sankalp-brand {
+  background-image: url("../img/sankalp-mango-logo.png");
+  background-repeat: no-repeat;
+  text-indent: -999em;
+  width:156px;
+  height:50px;
+}
+
+.bg-sankalp-main {
+}
+
+.carousel-item.active,
+.carousel-item-next,
+.carousel-item-prev {
+  display: block;
+}
+
+.panel-carousel, .panel-gridbox { margin-top:1rem;  }
+
+.panel-gridbox {
+  background-color:#ffffff;
+  border:1px solid #545454;
+
+}
